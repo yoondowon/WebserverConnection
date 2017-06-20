@@ -1,5 +1,5 @@
 # WebserverConnection
-Android code for connect to MySQL Database
+PHP and Android code for connect to MySQL Database
 
 For more information on the blog: http://nife0719.blog.me/221033414774 
 
