@@ -11,14 +11,6 @@ $name = $_POST["name"];
 $age = $_POST["age"];
 $gender = $_POST["gender"];
 
-echo $id;
-echo " ";
-echo $name;
-echo " ";
-echo $age;
-echo " ";
-echo $gender;
-
 $conn = mysqli_connect($db_host, $db_user, $db_passwd, $db_name);
 mysqli_query($conn, "set session character_set_connection=utf8;");
 mysqli_query($conn, "set session character_set_results=utf8;");
