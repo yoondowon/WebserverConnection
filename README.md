@@ -1,7 +1,7 @@
 # WebserverConnection
 Android code for connect to MySQL Database
 
-For more information on the blog: http://nife0719.blog.me/221004203291 
+For more information on the blog: http://nife0719.blog.me/221033414774 
 
 ## Contents
 ### - PHP Code
@@ -13,4 +13,6 @@ For more information on the blog: http://nife0719.blog.me/221004203291
 #### * All application source code is uploaded for connect to MySQL Database
 
 ## Example Application
+![ExampleApplication]
 
+[ExampleApplication]: Example_Application.gif
